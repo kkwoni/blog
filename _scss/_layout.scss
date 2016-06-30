@@ -272,6 +272,12 @@ body.home {
 }
 
 
+.post-content {
+  strong {
+    font-weight: bold;
+  }
+}
+
 .social {
   @extend %clearfix;
   padding: $base-spacing 0;

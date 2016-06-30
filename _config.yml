@@ -1,7 +1,7 @@
 # Build settings
 permalink   : /post/:year/:title/
 markdown    : kramdown
-highlighter : pygments
+highlighter : rouge
 gems: [jekyll-paginate]
 
 paginate: 3
@@ -29,7 +29,7 @@ title: 꿔니 블로그
 author:
   name      : 꿔니
   job       : Front-end Developer
-  bio       : "이 블로그는 금방 까먹는 저의 금붕어 기억력을 위한 공간입니다..."
+  bio       : "요새 열심히 오버워치 하고 있음..."
   thumb     : /images/author.jpg
   email     : fides4u@gmail.com
 #  url       : http://nandomoreira.me
